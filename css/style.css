@@ -278,21 +278,32 @@ header span{
 	top:965px;
 	left:479px;
 }
-.bottom-right ul{
-	list-style-image:url('images/04.png');
+.list{
+	width:440px;
+	margin-top:20px;
+}
+.r{
 	font-family:SimSun;
 	font-size:16px;
 	color:#5a5b5b;
-	position:absolute;
-	top:20px;
-	left:40px;
-	line-height:30px;
+	line-height:35px;
+	margin-left:60px;
+	margin-top:-15px;
+}
+.p{
+	width:0;
+	height:0;
+    border-left:7px solid transparent;
+    border-right:7px solid transparent;
+    border-bottom:10px solid #10456b;
+	margin-left:35px;
 }
 .list i{
 	font-size:12px;
 	font-family:SimSun;
 	color:#5a5b5b;
 	float:right;
+	margin-top:-20px;
 }
 .nums{
 	width:260px;
