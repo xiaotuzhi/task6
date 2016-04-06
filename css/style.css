@@ -42,7 +42,7 @@ header span{
 	width:191px;
 	height:301px;
 	background-color:#a0c6ac;
-	opacity:0.8;
+	opacity:0.5;
 	position:absolute;
 	top:93px;
 }
@@ -50,7 +50,7 @@ header span{
 	width:191px;
 	height:301px;
 	background-color:#e5babf;
-	opacity:0.8;
+	opacity:0.5;
 	position:absolute;
 	top:93px;
 	left:494px;
@@ -240,7 +240,6 @@ header span{
 	width:458px;
 	height:61px;
 	background-color:#9b9999;
-	opacity:0.7;
 	position:absolute;
 	top:867px;
 	left:479px;
@@ -262,11 +261,11 @@ header span{
 	left:70px;
 }
 .j{
-	font-size:12px;
+	font-size:18px;
 	font-family:Microsoft YaHei;
 	color:#72b16a;
 	position:absolute;
-	top:24.5px;
+	top:24px;
 	left:200px;
 	letter-spacing:140%;
 }
