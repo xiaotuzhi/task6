@@ -293,9 +293,9 @@ header span{
 .p{
 	width:0;
 	height:0;
-    border-left:7px solid transparent;
-    border-right:7px solid transparent;
-    border-bottom:10px solid #10456b;
+	border-left:7px solid transparent;
+	border-right:7px solid transparent;
+	border-bottom:10px solid #10456b;
 	margin-left:35px;
 }
 .list i{
